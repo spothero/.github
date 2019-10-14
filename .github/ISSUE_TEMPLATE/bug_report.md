@@ -7,8 +7,11 @@ assignees: ''
 
 ---
 
-**Description**
-<!-- A clear and concise description of what the bug is. -->
+**Expected Behavior**
+<!-- What did you expect to happen? -->
+
+**Actual Behavior**
+<!-- What happened instead of what you expected? -->
 
 **Steps to Reproduce**
 <!-- A list of steps to reproduce the behavior.
@@ -18,11 +21,8 @@ assignees: ''
 4. See error
 -->
 
-**Expected Behavior**
-<!-- A clear and concise description of what you expected to happen. -->
-
 **Screenshots**
-<!-- If applicable, add screenshots to help explain your problem. Otherwise, delete this section. -->
+<!-- If applicable, add screenshots to help explain your problem. Otherwise, you can delete this section. -->
 
 **Device(s):**
 <!-- What device did you encounter this bug on? Please complete the following information. Add any additional fields that you think could help us investigate the issue. -->
@@ -31,5 +31,5 @@ assignees: ''
  - OS: <!-- Windows, macOS, iOS, Android, etc. -->
  - Browser (if applicable): <!-- Chrome, Firefox, Safari, Edge, etc. -->
 
-**Additional Context**
+**Additional Details**
 <!-- Add any other context about the problem here. -->
